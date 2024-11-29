@@ -51,26 +51,13 @@ The following tables are included in this system:
 
 ---
 
-## Requirements
-
-To set up the database, execute the following SQL scripts in order:
-
-1. **Create Database**:  
-   Run the SQL script `HCMS create objects.sql` to create the database.
-
-2. **Populate Data**:  
-   Run the script `Population.sql` to populate the database with sample data.
-
----
-
 ## How to Use
 
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/A7medEmbaby/Healthcare-Management-System-HCMS.git
-2. Run the following script in sequence:
+2. Run the following script:
    - `HCMS create objects.sql`
-   - `Population.sql`
 
 ---
 
